@@ -13,17 +13,17 @@
 
 </div>
 
-# Javascript Interview Questions - For Practice
+# Sangeetha
 
 Learn by doing, these are the mostly used interview questions by corporate companies. This repository contains the questions as well as the solution to that question. **Happy Learning**.
 
 <div style="width:100%">
    
-| S.No | Topics                | Video Links | Questions                                | Solution                                 |
+<!-- | S.No | Topics                | Video Links | Questions                                | Solution                                 |
 | ---- | --------------------- | ----------- | ---------------------------------------- | ---------------------------------------- |
 | 1    | Javascript Objects    | [Videos](https://www.youtube.com/watch?v=iKD8RZoXrLQ&list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa&index=36) | N.A                                      | N.A                                      |
 | 2    | Javascript Arrays     | [Videos](https://www.youtube.com/watch?v=iKD8RZoXrLQ&list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa&index=50) | [View](./javascript-arrays/questions.md) | [View](./javascript-arrays/solutions.md) |
-| 3    | Javascript Functions  | [Videos](https://www.youtube.com/watch?v=iKD8RZoXrLQ&list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa&index=70) | N.A                                      | N.A                                      |
+| 3    | Javascript Functions  | [Videos](https://www.youtube.com/watch?v=iKD8RZoXrLQ&list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa&index=70) | N.A                                      | N.A                                      | -->
 
 </div>
 
