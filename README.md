@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="./assets/img/header.svg" alt="Learn more from cyberdude networks."/>
+<!--    <img src="./assets/img/header.svg" alt="Learn more from cyberdude networks."/> -->
    
 <br> 
 <br>
